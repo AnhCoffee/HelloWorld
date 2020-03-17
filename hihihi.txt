@@ -4,8 +4,12 @@ xin chao xin chao
 <<<<<<< HEAD
 hello hello vvv
 >>>>>>> ae7d1d077639965d44b7c65ad026d7bb5ead9a66
+<<<<<<< HEAD
 khong dau
 
 
+=======
+may co yeu t khong 
+>>>>>>> 64caa2f23652ad8c1c667c195f33c8a345caf0c6
 
 
