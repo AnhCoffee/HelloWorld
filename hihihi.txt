@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 xin chao xin chao
 =======
+<<<<<<< HEAD
 hello hello vvv
 >>>>>>> ae7d1d077639965d44b7c65ad026d7bb5ead9a66
+
 
