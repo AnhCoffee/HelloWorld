@@ -3,4 +3,8 @@ xin chao xin chao
 =======
 hello hello
 >>>>>>> 3d7fc6b11de2c10e8b5f0627e857c318e9c7674c
+<<<<<<< HEAD
 cau co yeu minh khong
+=======
+khong nhe
+>>>>>>> 5be2e6d39e78d6aa4240e005dbcf140529491d97
